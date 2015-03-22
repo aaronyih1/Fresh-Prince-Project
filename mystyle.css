@@ -1,0 +1,16 @@
+h1{
+	color:red;
+}
+
+body{
+	background-color: blue;
+}
+html{
+	text-align: center;
+}
+
+p{
+	font-family: 'helvetica';
+	color:white;
+	font-size: 20pt;
+}
